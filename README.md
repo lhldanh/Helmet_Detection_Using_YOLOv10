@@ -14,4 +14,5 @@ pip install -e .
 ```
 
 ## 2. Usage
-Run 1, 2 and the 6 for a prediction. Remember to change the `src_img`, `save_path`. Change `model_path` if you want to use another model. 
+1. Open `main.ipynb`
+2. Run 1, 2 and the 6 for a prediction. Remember to change the `src_img`, `save_path`. Change `model_path` if you want to use another model. 
