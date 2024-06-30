@@ -21,7 +21,7 @@ pip install -e .
 3. Run 1, 2 and the 6 for a prediction. Remember to change the `src_img`, `save_path`. Change `model_path` if you want to use another model.
 ### 2. Using streamlit app
 ```cmd
-%cd Helmet_Detection_Using_YOLOv10
+%cd Helmet_Detection_Using_YOLOv10/YOLOv10
 conda activate yolov10_env
 streamlit run app.py
 ```
